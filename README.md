@@ -26,16 +26,14 @@ In order to get this project working we need
   -statement table where all the fields required for bankstatement are retrieved.
   
 Installation & Execution
+
 1)One needs to deploy the code in the server choosen and then ensure the server is up and runing with no errors
 2)On the browser hit url:  http://localhost:8080/nagarro/login
-
-Then a login page is displayed .Enter the Username either with "admin" or "user" case ignored
--Once the credentials are validated you can view a home page where details are to be entered
-
--Based on the above criteria mentioned on the Account ID only and for the above fields values aneeds to be entered
+3)Then a login page is displayed .Enter the Username either with "admin" or "user" case ignored
+4)Once the credentials are validated you can view a home page where details are to be entered
+5)Based on the above criteria mentioned on the Account ID only and for the above fields values aneeds to be entered
    and click on submit to view the bankstatement.
- 
--Each user can login once only after logout
+ 6)Each user can login once only after logout
 
 Scope for development in Future
 
