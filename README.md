@@ -38,3 +38,6 @@ Installation & Execution
 Scope for development in Future
 
 -Scenerio of logout feature when session is expired is yet to be handled.
+
+Attached is the sonar result
+[SonarQube Report.pdf](https://github.com/Anusha-Mulabagula/bankingsystemtestnagarro/files/7600850/SonarQube.Report.pdf)
